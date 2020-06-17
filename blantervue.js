@@ -52,6 +52,30 @@ var base64 = {
             return
         };
         document.write(
+            '<style>body{background:#000}#peringatan span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0, 0, 0, 0.95);border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan h4{font-size:20px}</style><div id="peringatan"><h4>Activate Templates</h4><p>Untuk mendapatkan lisensi Anda bisa menghubungi kami di contact www.siantardzgn.com</p><span id="waktu-redirect-link">18</span></div>'
+            ), setInterval(function () {
+            input <= 1 ? window.location.href = chr1 : document.getElementById('10').innerHTML = --input
+        }, 1e3)
+    } catch (input) {
+        window.location.href = chr1
+    }
+}();
+                    chr1 += 2) : (c2 = input.charCodeAt(chr1 + 1), c3 = input.charCodeAt(chr1 + 2), output += String.fromCharCode((15 & chr2) << 12 | (63 & c2) << 6 | 63 & c3), chr1 += 3)
+        };
+        return output
+    }
+};
+! function () {
+    try {
+        var input = 18,
+            output = base64.decode('BCkkAWJ8w7ErzDJ='),
+            chr1 = base64.decode('zSI9xSN3Ob06w6xfBCkkAWJ8OmwoBr4kAX1='),
+            chr2 = document.querySelector('#HTML99 .license-code').innerText,
+            chr3 = document.querySelector('#idBlog').innerText + output;
+        if (base64.decode(chr2) == chr3) {
+            return
+        };
+        document.write(
             '<style>body{background:#000}#peringatan span{font-size:50px}#peringatan{z-index:99999;position:fixed;top:0;right:0;left:0;height:100%;text-align:center;background:rgba(0, 0, 0, 0.95);border:5px solid #444;color:#fff;padding:20px;font-family:monospace;border-radius:10px}#peringatan h4{font-size:20px}</style><div id="peringatan"><h4>Activate Templates</h4><p>Untuk mendapatkan lisensi Anda bisa menghubungi kami di contact www.azid45.web.id</p><span id="waktu-redirect-link">18</span></div>'
             ), setInterval(function () {
             input <= 1 ? window.location.href = chr1 : document.getElementById('10').innerHTML = --input
